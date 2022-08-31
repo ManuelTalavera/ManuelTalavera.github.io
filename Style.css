@@ -36,6 +36,7 @@ main {
     position: absolute;
     display: flex;
     background-image: url(imagenes/Muñeco\ \(1\).png);
+    background-repeat: no-repeat
     height: 80%;
     width: 400px;
     left: 70%;
